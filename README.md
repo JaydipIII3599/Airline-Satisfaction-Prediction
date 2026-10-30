@@ -1,5 +1,3 @@
-# Airline-Satisfaction-Prediction
-Predicting airline passenger satisfaction with XGBoost, CatBoost, and Random Forest on a Kaggle Playground dataset (700k+ rows). Includes feature engineering, hyperparameter tuning, and a blended submission. Best validation ROC-AUC: ~0.956.
 # ✈️ Airline Passenger Satisfaction Prediction
 
 Predicting whether an airline passenger was **satisfied** with their flight, using tabular survey and flight data from a Kaggle Playground Series competition. The project covers data cleaning, feature engineering, model comparison (Random Forest, XGBoost, CatBoost), hyperparameter tuning, and a blended submission.
